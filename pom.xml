@@ -22,5 +22,6 @@
 
     <modules>
         <module>social-multiplication</module>
+        <module>gamification</module>
     </modules>
 </project>
